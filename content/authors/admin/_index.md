@@ -1,7 +1,7 @@
 ---
 title: Chinmay Rane
 role: Researcher
-avatar_filename: 20191221_115240.jpg
+avatar_filename: avatar.png
 organizations:
   - name: IIITM
     url: https://www.iiitm.ac.in/index.php/en/
@@ -32,21 +32,14 @@ social:
     icon: kaggle
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor and Masters
+      institution: Indian Institute of Information Technology and Management, Gwalior
+      year: 2016
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
+Chinmay Rane is an ebullient machine learning practitioner. His research interests include generative adversarial networks, recommendation systems, graph neural networks, and affective computing. He worked on automating protein synthesis for enhanced classification performance as a part of his bachelor's thesis. Previously, he interned at Vaidik Technologies where he developed a depression chatbot along with a system to recommend personalized videos on the dashboard.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Apart from research he loves to play badminton, listen to music, binge Netflix or just sleep ;)
