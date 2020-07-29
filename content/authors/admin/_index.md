@@ -1,7 +1,7 @@
 ---
 title: Chinmay Rane
 role: Researcher
-avatar_filename: profile-pic.jpeg
+avatar_filename: 20191221_115240.jpg
 organizations:
   - name: IIITM
     url: https://www.iiitm.ac.in/index.php/en/
