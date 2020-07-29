@@ -32,7 +32,7 @@ social:
     link: https://scholar.google.com/citations?user=0K5rnckAAAAJ&hl=en
 education:
   courses:
-    - course: Bachelor and Masters
+    - course: Integrated Bachelors and Masters of Technology
       institution: Indian Institute of Information Technology and Management, Gwalior
       year: 2016
 email: ""
